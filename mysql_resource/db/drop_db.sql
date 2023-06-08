@@ -1,1 +1,1 @@
-drop DATABASE demo;
+CREATE DATABASE demo;
